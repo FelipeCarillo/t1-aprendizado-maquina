@@ -32,9 +32,9 @@ Com divisao estratificada de 80% para treino e 20% para teste, usando `random_st
 
 ## Integrantes
 
-1. Edgar Kodjoglamian Messias - 23.01612-4
-2. Felipe Carillo - 23.00765-6
+1. Marcelo Zoletti - 23.00171-2
+2. Isaías Cano Bello da Luz - 23.00257-3
 3. Gabriel da Silva Merola - 23.00825-3
-4. Isaías Cano Bello da Luz - 23.00257-3
-5. Marcelo Zoletti - 23.00171-2
-6. Yuri Alves Drapack - 23.00243-3
+4. Edgar Kodjoglamian Messias - 23.01612-4
+5. Yuri Alves Drapack - 23.00243-3
+6. Felipe Carillo - 23.00765-6
