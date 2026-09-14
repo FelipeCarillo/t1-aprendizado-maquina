@@ -3,7 +3,14 @@
 #
 # **Disciplina:** CIC407 - Inteligencia Artificial e Aplicacoes  
 # **Professor:** Evandro Ferraz  
-# **Integrantes:** preencher nome completo e RA de todos os membros do grupo.
+# **Integrantes (ordem alfabetica):**
+#
+# 1. Edgar Kodjoglamian Messias - 23.01612-4
+# 2. Felipe Carillo - 23.00765-6
+# 3. Gabriel da Silva Merola - 23.00825-3
+# 4. Isaías Cano Bello da Luz - 23.00257-3
+# 5. Marcelo Zoletti - 23.00171-2
+# 6. Yuri Alves Drapack - 23.00243-3
 #
 # Este notebook compara tres algoritmos de classificacao para prever a situacao
 # academica final de estudantes: `Dropout`, `Enrolled` ou `Graduate`.
